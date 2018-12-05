@@ -19,3 +19,5 @@ s.train_model(ConvNetwork,
 
 
 Result in showing the train and test curves (MSE loss and accuracy)
+
+The model is trained based on the from GloVe (Global Vectors for Word Representation) trained embeddings from the Stanford project : https://nlp.stanford.edu/projects/glove/. 
